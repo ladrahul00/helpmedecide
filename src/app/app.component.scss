@@ -1,0 +1,28 @@
+.title-center {
+    margin: 0 auto;
+}
+
+.content-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.help-me-card {
+    text-align: center;
+}
+
+.options-card {
+    text-align: center;  
+}
+
+.options-list{
+    max-height: 25vh;
+    overflow: auto;
+}
+
+.add-option{
+    width: 80%;
+}
+  
